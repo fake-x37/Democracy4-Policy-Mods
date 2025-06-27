@@ -1,0 +1,6 @@
+[config]
+name= mandatoryhealthscreenings
+path = C:\Users\mszan\Documents\My Games\Democracy4\mods\MandatoryHealthScreenings
+guiname = Policy: Mandatory Health Screenings
+author = mszan
+description = Mandatory Health Screenings Policy
